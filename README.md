@@ -17,9 +17,15 @@ QualityScore	      Numeric rating
 
 
 COVID-19 Data Analysis & Interactive Visualization Dashboard (Python + Plotly)
+
 • Performed Exploratory Data Analysis (EDA) on global COVID-19 dataset covering 187 countries.
+
 • Cleaned and processed real-world epidemiological data using Pandas.
+
 • Engineered key metrics including Recovery Rate (%).
+
 • Built interactive web-based visualizations using Plotly (Bar Charts, Scatter Plots, Histograms, Choropleth Maps).
+
 • Conducted country-wise comparative analysis of confirmed, deaths, active, and recovery metrics.
+
 • Developed global choropleth map for geospatial spread analysis.
